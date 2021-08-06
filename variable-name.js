@@ -5,7 +5,7 @@ var name = 'Hero Alan';
 // var delete = 'delete';
 
 //variable name should be in one words 
-// var nayok name = 'Tom hanks';
+// var hero name = 'Tom hanks';
 
 // quote is not allowed for naming convention
 // var "name" = 'Tom';
