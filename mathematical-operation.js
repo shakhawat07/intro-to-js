@@ -16,3 +16,11 @@ console.log(priceDifference);
 console.log(eggPriceMultiplication);
 console.log(orangeQuantity);
 
+// special addition 
+var firstNumber = 0.1;
+var secondNumber = 0.2;
+var total = firstNumber + secondNumber;
+
+// total = total.toFixed(1)
+// total = parseFloat(total);
+console.log(parseFloat(total.toFixed(1)));
