@@ -14,3 +14,5 @@ var age = 25;
 // age += 1;
 age++;
 console.log(age);
+age--;
+console.log(age);
